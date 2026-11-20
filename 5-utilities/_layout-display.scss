@@ -14,7 +14,7 @@
 // .u-show-for-[breakpoint] {
 //   display: none !important;
 
-//   @include breakpoint([breakpoint]) {
+//   @include mq([breakpoint]) {
 //     display: block !important;
 //   }
 // }
@@ -22,7 +22,7 @@
 // .u-hide-for-[breakpoint] {
 //   display: block !important;
 
-//   @include breakpoint([breakpoint]) {
+//    @include mq([breakpoint]) {
 //     display: none !important;
 //   }
 // }
